@@ -13,4 +13,6 @@ Save it as an .ahk file, run it and try it out. If it works, stick it in your st
 
 > http://dl.dropbox.com/u/26194020/CtrlQ.exe
 
+Well I just create the github for this program.
+
 via http://superuser.com/questions/250435/how-can-i-change-the-default-shortcut-in-windows-for-closing-programs
